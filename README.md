@@ -1,4 +1,3 @@
-# NameBadge
 # Name Badge
 
 A fully optimized and synced **prop-based name badge script** for FiveM.  
